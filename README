@@ -1,0 +1,3 @@
+This is a simple Kernel Module which is written while following Linux Device Driver 3rd edition book.
+
+The code is likely to get complicated as we progress through the book
